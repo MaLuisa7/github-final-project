@@ -1,7 +1,8 @@
 # github-final-project
-# This github repo is created as a final project of Git and Github basics course
+### This github repo is created as a final project of Git and Github basics course
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
 Input:
    p, principal amount
    t, time period in years
